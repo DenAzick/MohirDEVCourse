@@ -1,0 +1,17 @@
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\bin\Debug\net8.0\FirstTask.exe
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\bin\Debug\net8.0\FirstTask.deps.json
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\bin\Debug\net8.0\FirstTask.runtimeconfig.json
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\bin\Debug\net8.0\FirstTask.dll
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\bin\Debug\net8.0\FirstTask.pdb
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.csproj.AssemblyReference.cache
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfo.cs
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.csproj.Up2Date
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.dll
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\refint\FirstTask.dll
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.pdb
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\FirstTask.genruntimeconfig.cache
+C:\Users\den\Desktop\course\MohirDEV\Advanced\FirstTask\obj\Debug\net8.0\ref\FirstTask.dll
